@@ -1,0 +1,22 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: bad-bobby-saga-the-return\n"
+"X-Crowdin-Project-ID: 473156\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /main/crowdin/nqtr_tool/quest_fun.po\n"
+"X-Crowdin-File-ID: 7455\n"
+"Project-Id-Version: bad-bobby-saga-the-return\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Italian\n"
+"Language: it_IT\n"
+"PO-Revision-Date: 2023-09-17 10:45\n"
+
+# TODO: Translation updated at 2023-09-17 12:33 #|#|# # §translate crowdin strings: #|#|# # game/nqtr_tool/quest_fun.rpy:1
+msgid "A new quest began"
+msgstr ""
+
+# game/nqtr_tool/quest_fun.rpy:2
+msgid "The quest has been updated"
+msgstr ""
+
