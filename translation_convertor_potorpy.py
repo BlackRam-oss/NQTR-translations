@@ -130,7 +130,7 @@ def replaceDictionary(pathFile, dict={}, languege="crowdin"):
 
 def getListFiles(extension, languege="**"):
     # Get the list of all files and directories
-    path = "/"
+    path = "game/tl/"
     dir_list = glob(path + languege+"/*"+extension, recursive=True)
     if languege != "**":
         dir_list = dir_list + \
