@@ -1,0 +1,26 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: bad-bobby-saga-the-return\n"
+"X-Crowdin-Project-ID: 473156\n"
+"X-Crowdin-Language: zh-CN\n"
+"X-Crowdin-File: /main/crowdin/nqtr_screens/screens_memo.po\n"
+"X-Crowdin-File-ID: 7447\n"
+"Project-Id-Version: bad-bobby-saga-the-return\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Chinese Simplified\n"
+"Language: zh_CN\n"
+"PO-Revision-Date: 2023-09-17 10:44\n"
+
+# TODO: Translation updated at 2023-09-17 12:33 #|#|# # §translate crowdin strings: #|#|# # game/nqtr_screens/screens_memo.rpy:18
+msgid "Memo"
+msgstr ""
+
+# game/nqtr_screens/screens_memo.rpy:101
+msgid "It is currently the end of this story, unfortunately you have to wait for an update to continue this story."
+msgstr ""
+
+# game/nqtr_screens/screens_memo.rpy:103
+msgid "You have completed all the quests."
+msgstr ""
+
