@@ -93,7 +93,7 @@ def replaceDictionary(pathFile, dict={}, reverse=False):
 
 def getListFiles(extension=".po"):
     # Get the list of all files and directories
-    path = "game/tl/"
+    path = "/"
     dir_list = glob(path + "/**/*"+extension, recursive=True)
     return dir_list
 
