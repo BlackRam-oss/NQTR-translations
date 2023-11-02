@@ -10,13 +10,13 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-09-21 19:36\n"
+"PO-Revision-Date: 2023-11-02 15:51\n"
 
 # TODO: Translation updated at 2023-09-17 12:33 #|#|# # §translate crowdin strings: #|#|# # game/nqtr_tool/quest_fun.rpy:1
 msgid "A new quest began"
-msgstr ""
+msgstr "Une nouvelle quête a commencé"
 
 # game/nqtr_tool/quest_fun.rpy:2
 msgid "The quest has been updated"
-msgstr ""
+msgstr "La quête a été mise à jour"
 
