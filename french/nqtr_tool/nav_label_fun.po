@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-09-21 19:35\n"
+"PO-Revision-Date: 2023-11-02 15:51\n"
 
 # TODO: Translation updated at 2023-09-17 12:33 #|#|# # §translate crowdin strings: #|#|# # game/nqtr_tool/nav_label_fun.rpy:9
 msgid "Now is not the time to go outside"
-msgstr ""
+msgstr "Ce n’est pas le moment de sortir"
 
