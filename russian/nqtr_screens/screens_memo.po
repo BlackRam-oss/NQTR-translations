@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2023-09-21 19:35\n"
+"PO-Revision-Date: 2024-01-27 15:32\n"
 
 # TODO: Translation updated at 2023-09-17 12:33 #|#|# # §translate crowdin strings: #|#|# # game/nqtr_screens/screens_memo.rpy:18
 msgid "Memo"
@@ -22,5 +22,5 @@ msgstr ""
 
 # game/nqtr_screens/screens_memo.rpy:103
 msgid "You have completed all the quests."
-msgstr ""
+msgstr "Вы завершили все задания."
 
